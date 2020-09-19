@@ -6,6 +6,9 @@
 //
 
 #include <stdio.h>
+#include <netinet/in.h>
+#include <netinet/ip.h>
+
 
 int main(int argc, const char * argv[]) {
     // insert code here...
